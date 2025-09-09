@@ -1,0 +1,5 @@
+& 'C:\w64devkit\bin\gcc.exe' -std=c17 -g "c:\c-projects\rogue-sdl\main.c" `
+  -I"C:\libraries\SDL3\x86_64-w64-mingw32\include" `
+  -L"C:\libraries\SDL3\x86_64-w64-mingw32\lib" `
+  -o "c:\c-projects\rogue-sdl\rg.exe" `
+  -lSDL3 -lmingw32 -luser32 -lgdi32 -lwinmm -limm32 -lole32 -loleaut32 -lshell32 -lversion -luuid

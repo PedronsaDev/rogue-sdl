@@ -5,3 +5,7 @@ CompileFlags:
     - -IC:/libraries/SDL3/x86_64-w64-mingw32/include
     # SDL3_ttf headers (optional; remove if not installed)
     - -IC:/libraries/SDL3_ttf/x86_64-w64-mingw32/include
+
+Format:
+  Style: file,
+  FallbackStyle: None
