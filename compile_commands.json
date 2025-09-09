@@ -1,0 +1,7 @@
+[
+  {
+    "directory": "c:/c-projects/rogue-sdl",
+    "file": "c:/c-projects/rogue-sdl/main.c",
+    "command": "C:/w64devkit/bin/gcc.exe -std=c17 -g -IC:/libraries/SDL3/x86_64-w64-mingw32/include -IC:/libraries/SDL3_ttf/x86_64-w64-mingw32/include -LC:/libraries/SDL3/x86_64-w64-mingw32/lib -LC:/libraries/SDL3_ttf/x86_64-w64-mingw32/lib main.c -lSDL3 -lSDL3_ttf -lmingw32 -luser32 -lgdi32 -lwinmm -limm32 -lole32 -loleaut32 -lshell32 -lversion -luuid"
+  }
+]
